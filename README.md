@@ -1,4 +1,4 @@
-# EXPT-5-DESIGN-OF-ACTIVE-LOW-PASS-HIGH-PASS-AND-BAND-PASS-FILTERS-USING-OP-AMP
+![121abe88-45a2-436e-894b-cbcb06016f7c](https://github.com/user-attachments/assets/ed912e3c-7bb4-4bb7-bf38-576d4b7ae384)# EXPT-5-DESIGN-OF-ACTIVE-LOW-PASS-HIGH-PASS-AND-BAND-PASS-FILTERS-USING-OP-AMP
 
 # AIM:
 
@@ -23,10 +23,13 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 # DESIGN:
 Design a second oder Butterworth filter with thw upper cutoff frequency of 1KHz.
+![121abe88-45a2-436e-894b-cbcb06016f7c](https://github.com/user-attachments/assets/13b836c4-2402-4aa6-9188-1bd207b4dc6d)
 
 # TABULATION:
+![c7638ca3-af84-417e-a959-bd259baf5a0a](https://github.com/user-attachments/assets/f4e8bc33-d558-43dd-b66e-498e71199719)
 
 # GRAPH:
+![01baded8-e6c1-4d2d-9056-e3b965957062](https://github.com/user-attachments/assets/c26ed535-c614-45af-a7b2-460815057d97)
 
 # THEORY:
 # HIGH PASS FILTER
@@ -43,10 +46,13 @@ A LPF allows frequencies from 0 to higher cut of frequencThe frequency at which 
 
 # DESIGN:
 Design a second oder Butterworth filter with thw lower cutoff frequency of 1KHz.
+![121abe88-45a2-436e-894b-cbcb06016f7c](https://github.com/user-attachments/assets/fb24b827-74d0-42ab-b894-e8caf59b6cb0)
 
 # TABULATION:
+![401dcfdc-50b8-41a0-84c4-273b3ed99cf8](https://github.com/user-attachments/assets/5913f9c0-dd0a-4599-ab69-586db84c836a)
 
 # GRAPH:
+![dbe52ec9-6826-47fb-85d8-09a2ace829d0](https://github.com/user-attachments/assets/a63bff19-4bbf-4516-8bdd-40b6f5289cf2)
 
 # THEORY:
 # BAND PASS FILTER
@@ -62,10 +68,15 @@ A band pass filter has a pass band between two cutoff frequencies fH and fL such
 
 # DESIGN:
 Design a BPF to pass a band of 400Hz to 2KHz with a pass band gain of 4.
+![c03912e5-0487-4433-b924-8d502a36e6c7](https://github.com/user-attachments/assets/0b370413-cc55-4034-b897-48c69b184fb8)
+![b96b8d37-8aca-4dad-bf63-b7590d0c0ca0](https://github.com/user-attachments/assets/713dfe01-31d1-40a7-b63e-f6748914c56f)
 
 # TABULATION:
+![2e33cfb2-aa7d-49ee-bb70-78c363450b1f](https://github.com/user-attachments/assets/778a14ff-74df-406a-95ea-5e124c7dee84)
+
 
 # GRAPH:
+![eefeb517-abed-45b2-a149-97541cd5f853](https://github.com/user-attachments/assets/22c18200-3cea-4f85-8181-60f7a8bafd16)
 
 # PROCEDURE - (LPF & HPF):
 1. Connect the circuit as shown in the circuit diagram.
@@ -84,3 +95,4 @@ Design a BPF to pass a band of 400Hz to 2KHz with a pass band gain of 4.
 
 
 # RESULT
+![e3c81449-d22a-4d17-b37f-ad07fd429f04](https://github.com/user-attachments/assets/c99cadb4-c0be-4212-9eba-9bdb84afb9f4)
